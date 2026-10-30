@@ -1,0 +1,8 @@
+{
+  "name": "all-sim-offer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "All Sim Offer customer PWA and admin starter",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
